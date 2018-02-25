@@ -1,0 +1,37 @@
+{
+  "name": "wunocontracts",
+  "version": "1.0.0",
+  "description": "This is a DAPP used for allowing users to make Smart Contracts by filling out a form",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuno/wunocontracts.git"
+  },
+  "keywords": [
+    "wunO",
+    "Ethereum",
+    "Smart",
+    "Contracts",
+    "Ether",
+    "DAPP",
+    "React.js",
+    "Next.js",
+    "Solidity"
+  ],
+  "author": "Nicholas J Diaz, wunO, LLC.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuno/wunocontracts/issues"
+  },
+  "homepage": "https://github.com/wuno/wunocontracts#readme",
+  "dependencies": {
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "web3": "^1.0.0-beta.30"
+  }
+}
